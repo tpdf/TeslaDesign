@@ -1,0 +1,71 @@
+HTTrack3.48-19+htsswf+htsjava launched on Fri, 06 Feb 2015 19:43:53 at http://my.teslamotors.com/models/design +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr1%e0C2%Pns2u1z%s%uN0%I0p7DaK0H0%kf2A100000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" http://my.teslamotors.com/models/design -O1 "C:\My Web Sites\tesla" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:43:53	Info: 	engine: start
+19:43:53	Info: 	Warning: could not detect encoding for: primary/primary
+19:43:53	Info: 	engine: check-html: primary/primary
+19:43:54	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/models/design -> C:/My Web Sites/tesla/my.teslamotors.com/models/design.html
+19:43:54	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/robots.txt -> 
+19:43:54	Info: 	engine: check-html: my.teslamotors.com/models/design
+19:43:54	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/sites/all/themes/tesla/favicon.ico -> C:/My Web Sites/tesla/my.teslamotors.com/sites/all/themes/tesla/favicon.ico
+19:43:54	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/sites/all/themes/tesla/favicon.ico
+19:43:55	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/images/models/share_thumb.png -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/images/models/share_thumb.png
+19:43:55	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/images/models/share_thumb.png
+19:43:55	Info: 	engine: transfer-status: link error (302, 'Moved Temporarily'): www.teslamotors.com/models/design
+19:43:55	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-57x57.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-57x57c81e.png
+19:43:55	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-57x57c81e.png
+19:43:56	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-60x60.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-60x60c81e.png
+19:43:56	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-60x60c81e.png
+19:43:56	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-iconc81e.png
+19:43:56	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-iconc81e.png
+19:43:56	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-72x72.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-72x72c81e.png
+19:43:56	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-72x72c81e.png
+19:43:56	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-76x76.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-76x76c81e.png
+19:43:56	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-76x76c81e.png
+19:43:56	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-114x114.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-114x114c81e.png
+19:43:56	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-114x114c81e.png
+19:43:57	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-120x120.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-120x120c81e.png
+19:43:57	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-120x120c81e.png
+19:43:57	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-144x144.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-144x144c81e.png
+19:43:57	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-144x144c81e.png
+19:43:57	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-152x152.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-152x152c81e.png
+19:43:57	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/apple-touch-icon-152x152c81e.png
+19:43:57	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/favicon-196x196.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/favicon-196x196c81e.png
+19:43:57	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/favicon-196x196c81e.png
+19:43:58	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/favicon-160x160.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/favicon-160x160c81e.png
+19:43:58	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/favicon-160x160c81e.png
+19:43:58	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/favicon-96x96.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/favicon-96x96c81e.png
+19:43:58	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/favicon-96x96c81e.png
+19:43:58	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/favicon-16x16.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/favicon-16x16c81e.png
+19:43:58	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/favicon-16x16c81e.png
+19:43:58	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/tesla_theme/assets/img/icons/favicon-32x32.png?2 -> C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/favicon-32x32c81e.png
+19:43:58	Info: 	File successfully written in background: C:/My Web Sites/tesla/my.teslamotors.com/tesla_theme/assets/img/icons/favicon-32x32c81e.png
+19:43:59	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/sites/default/files/css/css_a35a2eecd3c3eb40c0cc2a202ce3d834.css -> C:/My Web Sites/tesla/my.teslamotors.com/sites/default/files/css/css_a35a2eecd3c3eb40c0cc2a202ce3d834.css
+19:43:59	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/sites/default/files/css/css_34f4b7541185d829278d04510f999989.css -> C:/My Web Sites/tesla/my.teslamotors.com/sites/default/files/css/css_34f4b7541185d829278d04510f999989.css
+19:43:59	Info: 	engine: transfer-status: link recorded: my.teslamotors.com/sites/all/themes/tesla/configurator/css/min/web_styles.min.css?o -> C:/My Web Sites/tesla/my.teslamotors.com/sites/all/themes/tesla/configurator/css/min/web_styles.mind956.css
+19:43:59	Info: 	engine: transfer-status: link error (302, 'Moved Temporarily'): cloud.typography.com/7862292/665864/css/fonts.css
+19:44:00	Info: 	engine: transfer-status: link recorded: img.en25.com/i/elqCfg.min.js -> C:/My Web Sites/tesla/img.en25.com/i/elqCfg.min.js
+19:44:01	Info: 	engine: transfer-status: link error (302, 'Found'): www.googleadservices.com/pagead/conversion/1022916095/?label=v2sDCJnZ7QEQ_-vh5wM&guid=ON&script=0
+19:44:01	Info: 	engine: transfer-status: link error (404, 'Not Found'): www.googleadservices.com/robots.txt
+19:44:01	Warning: 	Found for www.googleadservices.com/pagead/conversion/1022916095/?label=v2sDCJnZ7QEQ_-vh5wM&guid=ON&script=0
+19:44:01	Warning: 	File has moved from www.googleadservices.com/pagead/conversion/1022916095/?label=v2sDCJnZ7QEQ_-vh5wM&guid=ON&script=0 to http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1022916095/?label=v2sDCJnZ7QEQ_-vh5wM&guid=ON&script=0&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&random=1483356019
+19:44:01	Warning: 	Warning: store text/html without scan: C:/My Web Sites/tesla/www.googleadservices.com/pagead/conversion/1022916095/indexfb77.html
+19:44:01	Warning: 	Warning: store text/css without scan: C:/My Web Sites/tesla/my.teslamotors.com/sites/default/files/css/css_a35a2eecd3c3eb40c0cc2a202ce3d834.css
+19:44:01	Warning: 	Warning: store text/css without scan: C:/My Web Sites/tesla/my.teslamotors.com/sites/default/files/css/css_34f4b7541185d829278d04510f999989.css
+19:44:01	Warning: 	Warning: store text/css without scan: C:/My Web Sites/tesla/my.teslamotors.com/sites/all/themes/tesla/configurator/css/min/web_styles.mind956.css
+19:44:01	Warning: 	Warning: store application/x-javascript without scan: C:/My Web Sites/tesla/img.en25.com/i/elqCfg.min.js
+
+HTTrack Website Copier/3.48-19 mirror complete in 8 seconds : 24 links scanned, 21 files written (1054807 bytes overall) [188866 bytes received at 23608 bytes/sec], 1009017 bytes transferred using HTTP compression in 6 files, ratio 12%, 3.7 requests per connection
+(No errors, 7 warnings, 46 messages)
+19:44:01	Info: 	engine: end
+19:44:01	Info: 	hashtable "back_new" summary: size=16 (lg2=4) used=0 stash-size=0 pool-size=0 pool-capacity=128 pool-used=0 writes=6 (new=6) moved=1 stashed=0 max-stash-size=0 avg-moved=0.166667 rehash=0 pool-compact=4 pool-realloc=3 memory=1136
+19:44:01	Info: 	hashtable "cache_hashtable" summary: size=16 (lg2=4) used=0 stash-size=0 pool-size=0 pool-capacity=0 pool-used=0 writes=0 (new=0) moved=0 stashed=0 max-stash-size=0 avg-moved=-1.#IND rehash=0 pool-compact=0 pool-realloc=0 memory=1008
+19:44:01	Info: 	hashtable "cache_tests" summary: size=16 (lg2=4) used=2 stash-size=0 pool-size=84 pool-capacity=256 pool-used=84 writes=2 (new=2) moved=0 stashed=0 max-stash-size=0 avg-moved=0 rehash=0 pool-compact=0 pool-realloc=1 memory=1264
+19:44:01	Info: 	hashtable "hash->sav" summary: size=64 (lg2=6) used=24 stash-size=0 pool-size=0 pool-capacity=0 pool-used=0 writes=25 (new=24) moved=12 stashed=1 max-stash-size=1 avg-moved=0.5 rehash=2 pool-compact=0 pool-realloc=0 memory=2160
+19:44:01	Info: 	hashtable "hash->adrfil" summary: size=64 (lg2=6) used=25 stash-size=0 pool-size=0 pool-capacity=0 pool-used=0 writes=25 (new=25) moved=0 stashed=0 max-stash-size=0 avg-moved=0 rehash=2 pool-compact=0 pool-realloc=0 memory=2160
+19:44:01	Info: 	hashtable "hash->former_adrfil" summary: size=16 (lg2=4) used=1 stash-size=0 pool-size=0 pool-capacity=0 pool-used=0 writes=25 (new=1) moved=0 stashed=0 max-stash-size=0 avg-moved=0 rehash=0 pool-compact=0 pool-realloc=0 memory=1008
